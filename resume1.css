@@ -1,0 +1,65 @@
+
+            body{
+                width: 50vw;
+                padding-left: 25vw;
+            }
+            .name{
+                text-align: center;
+            }
+            .Email{
+                text-decoration: underline;
+            }
+            .summery{
+                text-decoration: underline;
+            }
+            .education{
+                text-decoration: underline;
+            }
+            .college{
+                font-weight: bold;
+            }
+            .college1{
+                font-weight: bold;
+            }
+            .college2{
+                font-weight: bold;
+            }
+            .year{
+                text-align: end;
+            }
+            .year1{
+                text-align: end;
+            }
+            .year2{
+                text-align: end;
+            }
+            .internship{
+                text-decoration: underline;
+            }
+            .internship1{
+                font-weight: bold;
+            }
+            .internship2{
+                font-weight: bold;
+            }
+            .project{
+                text-decoration: underline;
+            }
+            .skills{
+                text-decoration: underline;
+            }
+            .skills1{
+                font-weight: bold;
+            }
+            .softskills{
+                font-weight: bold;
+            }
+            .interests{
+                font-weight: bold;
+            }
+            .certifications{
+                text-decoration: underline;
+            }
+            .awards{
+                text-decoration: underline;
+            }
